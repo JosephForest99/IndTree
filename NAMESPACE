@@ -1,0 +1,7 @@
+useDynLib(IndTree)
+
+export(NN_distances)
+export(mezcla_indice_arbol)
+export(ordenar_vectores)
+export(tamano_indice_arbol)
+export(vecinos_cercanos)
